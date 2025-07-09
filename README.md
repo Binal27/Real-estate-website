@@ -2,4 +2,4 @@
 2.<b>Property Listings</b>with images, descriptions, and pricing<br>
 3.<b> User Authentication </b>Sign up, log in, and manage listings <br>
 4.<b>Add/Edit/Delete Listings </b>for property owners or agents<br>
-<h4> TECH STACKS</h4><B> Frontend:</B><br>HTML,CSS and Bootstrap,Javascript<br><b> Backend:</b><br>MySQL,PHP<BR><h4> Screenshots</h4>1.Aboutus-C:\Users\Lenovo\Pictures\Screenshots\screenshots\aboutus.png
+<h4> TECH STACKS</h4><B> Frontend:</B><br>HTML,CSS and Bootstrap,Javascript<br><b> Backend:</b><br>MySQL,PHP<BR><h4> Screenshots</h4>1.Aboutus-<href>C:\Users\Lenovo\Pictures\Screenshots\screenshots\aboutus.png</href>
