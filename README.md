@@ -1,0 +1,1 @@
+<H4>A responsive, full-featured real estate web platform where users can browse, search, and list properties for rent or sale.</H4><br><H3>FEATURES</H3>1.<b>Search Properties</b> by location, price, type, etc.<br>
